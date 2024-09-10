@@ -1,5 +1,5 @@
-# Tipografia_e_Cores
+## Tipografia e Cores
 <br>
 <hr>
 <br>
-Repositório duplas - Julia Daniluski & Julia Zanirato
+<strong>Repositório duplas - Julia Daniluski & Julia Zanirato</strong>
