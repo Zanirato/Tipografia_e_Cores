@@ -13,6 +13,6 @@ Mesmo que o site seja confuso, as cores principais laranja e branco dão destaqu
 
 ![960bba03-797b-4311-bc97-e8523cdc549c](https://github.com/user-attachments/assets/8ffd4025-744b-4b53-adc2-b275bb0524aa)
 
-Agora analisando o site da Uber, ele utilizam a mesma fone, a paleta usada é harmônica e bem defiida, o tamanho da fonte direcionam os olhos para onde o usuário deve ler primeiro. O site é simples e não há poluição visual como no site anterior. OS textos estão bem alinhados. Há um contraste das cores do fundo e da imagem, que são escuras, com as cores claras das fontes
+Agora analisando o site da Uber, o site utiliza a mesma fonte, a paleta usada é harmônica e bem definida, o tamanho da fonte direciona os olhos para onde o usuário deve ler primeiro. O site é simples e não há poluição visual como no site anterior. OS textos estão bem alinhados. Há um contraste das cores do fundo e da imagem, que são escuras, com as cores claras das fontes
 
 A única desvantagem que observamos foi pouca informação sobre o site
